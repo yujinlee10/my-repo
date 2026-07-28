@@ -1,1 +1,2 @@
-Hello Git
+Hello
+This is a Git practice file.
